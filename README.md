@@ -1,6 +1,6 @@
 # ToDos Mindbox test
 
-Test assignment on React and TypeScript to Mindbox company. The simple ToDo list app. [Demo]()
+Test assignment on React and TypeScript to Mindbox company. The simple ToDo list app. [Demo](https://daniilsintsov.github.io/todos-mindbox-test)
 
 ## Screenshot
 
