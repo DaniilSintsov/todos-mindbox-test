@@ -1,0 +1,28 @@
+@import url('../../assets/styles/variables.css');
+
+.form {
+  display: flex;
+  box-shadow: 0 0 5px var(--shadow);
+}
+
+.input {
+  background: var(--foreground-color);
+  flex: 1 1 auto;
+  outline: none;
+  padding: 15px;
+  border: 2px solid var(--foreground-color);
+  transition: 0.3s;
+}
+
+.input:focus {
+  border: 2px solid var(--title-color);
+}
+
+.btn {
+  padding: 15px;
+  background-color: var(--title-color);
+}
+
+.btn:hover {
+  cursor: pointer;
+}

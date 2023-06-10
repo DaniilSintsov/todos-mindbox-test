@@ -1,0 +1,17 @@
+@import url('../../assets/styles/variables.css');
+
+.container {
+  flex: 0 1 500px;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.title {
+  font-size: 50px;
+  font-weight: 400;
+  color: var(--title-color);
+  text-transform: uppercase;
+  text-align: center;
+}
